@@ -5,7 +5,6 @@
   "type": "module",
   "homepage": "https://himanshu-kumar-2301.github.io/tailwind-styled-components",
   "scripts": {
-    "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "vite build",

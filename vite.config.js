@@ -3,5 +3,5 @@ import tailwindcss from "@tailwindcss/vite";
 
 export default defineConfig({
   plugins: [tailwindcss()],
-  base: /tailwind-styled-components/,
+  base: "/tailwind-styled-components/",
 });

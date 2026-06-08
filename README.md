@@ -7,7 +7,7 @@ This project demonstrates reusable UI components styled with Tailwind, including
 
 ## 🚀 Live Demo
 
-[View Project](https://himanshu-kumar-2301.github.io/tailwind-styled-components/)
+[View Project](https://himanshu-kumar-2301.github.io/fcc-tailwind-styled-components/)
 
 ---
 
